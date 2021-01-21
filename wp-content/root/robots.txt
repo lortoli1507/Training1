@@ -2,5 +2,3 @@ This is
 simply a fake
 "robots.txt" file
 for this training project.
-
-This comment was added AFTER the file robots.txt was committed, 21JAN2021 11:01
