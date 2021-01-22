@@ -9,6 +9,9 @@
 #  This file was modified on the local drive 22JAN2021 15:05.
 #  The file is "vector_sequence_28D.py"
 
+#  This file was modified on GitHub 22JAN2021 16:07.
+#  The file is "vector_sequence_28D.py"
+
 
 
 #!/usr/bin/env python3
