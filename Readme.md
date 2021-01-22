@@ -4,3 +4,6 @@ vector_sequence_28.py     Outputs a simple square wave on Sig #1.  Duty cycle is
                [multiplier, sig#],
                [multiplier, sig#] ]
 If the code is run as-is, the vectors will be applied continuously in an infinite loop; they may be appplied once ("single-shot mode") by removing the while statement at Line 125.  Note that removing the while statement requires that one level of indent be removed from Lines 126 - 130.  Signal 1 can be turned ON/OFF using the pushbuttons labeled CH1 ON and CH1 OFF; Sig's 2 and 3 are controlled (independently from Sig #1) using CH2 ON and CH2 OFF.
+
+This file was modified on the local drive 22JAN2021 15:04.
+The file is "Readme.md"
